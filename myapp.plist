@@ -46,7 +46,7 @@
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>移动影像采集App安装</string>
+    <string>app download</string>
    </dict>
   </dict>
  </array>
