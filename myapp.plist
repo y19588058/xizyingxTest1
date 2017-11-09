@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
 "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+<dict> 
  <key>items</key>
  <array>
   <dict>
@@ -12,7 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <!-- http»òÕßhttpsÁ´½ÓµÄipaÎÄ¼şµØÖ· -->
+     <!-- httpæˆ–è€…httpsé“¾æ¥çš„ipaæ–‡ä»¶åœ°å€ -->
      <string>http://10.233.86.30:9080/NCFindWeb?service="SP"&filename=/ncupload/APPPack/TC_TIMS.ipa</string>
     </dict>
     <dict>
@@ -21,7 +21,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <!-- http»òÕßhttpsÁ´½ÓµÄÍ¼Æ¬µØÖ·£¬¿ÉÖ±½ÓÊ¹ÓÃapp¶ÔÓ¦µÄicon£¨·Ö±æÂÊÃ»Ç¿ÖÆÒªÇó£© -->
+     <!-- httpæˆ–è€…httpsé“¾æ¥çš„å›¾ç‰‡åœ°å€ï¼Œå¯ç›´æ¥ä½¿ç”¨appå¯¹åº”çš„iconï¼ˆåˆ†è¾¨ç‡æ²¡å¼ºåˆ¶è¦æ±‚ï¼‰ -->
      <string>10.233.86.30:9080/NCFindWeb?service="SP"&filename=/ncupload/APPPack/icon.png</string>
     </dict>
     <dict>
@@ -30,23 +30,23 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <!-- http»òÕßhttpsÁ´½ÓµÄĞ¡Í¼Æ¬µØÖ·£¬¿ÉÖ±½ÓÊ¹ÓÃapp¶ÔÓ¦µÄicon£¨·Ö±æÂÊÃ»Ç¿ÖÆÒªÇó£© -->
+     <!-- httpæˆ–è€…httpsé“¾æ¥çš„å°å›¾ç‰‡åœ°å€ï¼Œå¯ç›´æ¥ä½¿ç”¨appå¯¹åº”çš„iconï¼ˆåˆ†è¾¨ç‡æ²¡å¼ºåˆ¶è¦æ±‚ï¼‰ -->
      <string>10.233.86.30:9080/NCFindWeb?service="SP"&filename=/ncupload/APPPack/icon.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <!-- BundleID£¬¾ÍÊÇĞÂ½¨appÊ±µÄ°üÃû -->
+    <!-- BundleIDï¼Œå°±æ˜¯æ–°å»ºappæ—¶çš„åŒ…å -->
     <string>com.yonyou.xizyingx</string>
     <key>bundle-version</key>
-    <!-- °æ±¾ºÅ -->
+    <!-- ç‰ˆæœ¬å· -->
     <string>1.0.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <!-- °²×°appÊ±µÄÌáÊ¾ĞÅÏ¢ -->
-    <string>ÒÆ¶¯Ó°Ïñ²É¼¯App°²×°</string>
+    <!-- å®‰è£…appæ—¶çš„æç¤ºä¿¡æ¯ -->
+    <string>ç§»åŠ¨å½±åƒé‡‡é›†Appå®‰è£…</string>
    </dict>
   </dict>
  </array>
