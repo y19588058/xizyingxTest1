@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://10.233.86.30:9080/NCFindWeb?service="SP"&filename=/ncupload/APPPack/TC_TIMS.ipa</string>
+     <string>http://10.233.86.30:9080/NCFindWeb?service="SP"&filename=/ncupload/APPPack/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
